@@ -1,13 +1,20 @@
 # Micro Flapping Wing Flyer - Flight Dynamics and Control
 
-## Requirements
-- MATLAB version: 2021a
+## Requirements (as of 2025-2026)
+- MATLAB version: R2025b, or most up-to-date
 - MATLAB / Simulink libraries
-    - Aerospace Toolbox
     - Aerospace Blockset
-    - UAV Toolbox
-    - Sensor Fusion and Tracking Toolbox
+    - Aerospace Toolbox
+    - Control System Toolbox
+    - Data Acquisition Toolbox
+    - DSP System Toolbox
     - Embedded Coder
-    - Simulink Coder
+    - MATLAB Coder
     - Phased Array System Toolbox
+    - Sensor Fusion and Tracking Toolbox
+    - Signal Processing Toolbox
+    - Simulink
     - Simulink 3D Animation
+    - Simulink Coder
+    - Simulink Control Design
+    - UAV Toolbox
